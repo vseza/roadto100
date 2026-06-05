@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const features = [
   {
     title: "Track visited countries",
@@ -108,12 +110,12 @@ export default function Home() {
             Discover the fastest routes to your next travel milestone.
           </p>
           <div className="mt-10">
-            <a
-              href="#"
+            <Link
+              href="/plan"
               className="inline-flex items-center justify-center rounded-full bg-zinc-900 px-8 py-3.5 text-base font-medium text-white shadow-sm transition-colors hover:bg-zinc-800 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-zinc-900"
             >
               Start Planning
-            </a>
+            </Link>
           </div>
         </div>
       </section>

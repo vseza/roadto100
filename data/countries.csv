@@ -1,0 +1,196 @@
+id,country,region,subregion
+afghanistan,Afghanistan,Asia,Central Asia
+albania,Albania,Europe,Balkans
+algeria,Algeria,Africa,North Africa
+andorra,Andorra,Europe,Western Europe
+angola,Angola,Africa,Southern Africa
+antigua-and-barbuda,Antigua and Barbuda,North America,Caribbean
+argentina,Argentina,South America,South America
+armenia,Armenia,Asia,Caucasus
+australia,Australia,Oceania,Australia & New Zealand
+austria,Austria,Europe,Western Europe
+azerbaijan,Azerbaijan,Asia,Caucasus
+bahamas,Bahamas,North America,Caribbean
+bahrain,Bahrain,Asia,Middle East
+bangladesh,Bangladesh,Asia,South Asia
+barbados,Barbados,North America,Caribbean
+belarus,Belarus,Europe,Eastern Europe
+belgium,Belgium,Europe,Western Europe
+belize,Belize,North America,Central America
+benin,Benin,Africa,West Africa
+bhutan,Bhutan,Asia,South Asia
+bolivia,Bolivia,South America,South America
+bosnia-and-herzegovina,Bosnia and Herzegovina,Europe,Balkans
+botswana,Botswana,Africa,Southern Africa
+brazil,Brazil,South America,South America
+brunei,Brunei,Asia,Southeast Asia
+bulgaria,Bulgaria,Europe,Balkans
+burkina-faso,Burkina Faso,Africa,West Africa
+burundi,Burundi,Africa,East Africa
+cabo-verde,Cabo Verde,Africa,West Africa
+cambodia,Cambodia,Asia,Southeast Asia
+cameroon,Cameroon,Africa,Central Africa
+canada,Canada,North America,North America
+central-african-republic,Central African Republic,Africa,Central Africa
+chad,Chad,Africa,Central Africa
+chile,Chile,South America,South America
+china,China,Asia,East Asia
+colombia,Colombia,South America,South America
+comoros,Comoros,Africa,East Africa
+congo,Congo,Africa,Central Africa
+costa-rica,Costa Rica,North America,Central America
+cote-divoire,Côte d’Ivoire,Africa,West Africa
+croatia,Croatia,Europe,Balkans
+cuba,Cuba,North America,Caribbean
+cyprus,Cyprus,Asia,Middle East
+czechia,Czechia,Europe,Eastern Europe
+democratic-republic-of-the-congo,Democratic Republic of the Congo,Africa,Central Africa
+denmark,Denmark,Europe,Northern Europe
+djibouti,Djibouti,Africa,East Africa
+dominica,Dominica,North America,Caribbean
+dominican-republic,Dominican Republic,North America,Caribbean
+ecuador,Ecuador,South America,South America
+egypt,Egypt,Africa,North Africa
+el-salvador,El Salvador,North America,Central America
+equatorial-guinea,Equatorial Guinea,Africa,Central Africa
+eritrea,Eritrea,Africa,East Africa
+estonia,Estonia,Europe,Northern Europe
+eswatini,Eswatini,Africa,Southern Africa
+ethiopia,Ethiopia,Africa,East Africa
+fiji,Fiji,Oceania,Pacific
+finland,Finland,Europe,Northern Europe
+france,France,Europe,Western Europe
+gabon,Gabon,Africa,Central Africa
+gambia,Gambia,Africa,West Africa
+georgia,Georgia,Asia,Caucasus
+germany,Germany,Europe,Western Europe
+ghana,Ghana,Africa,West Africa
+greece,Greece,Europe,Southern Europe
+grenada,Grenada,North America,Caribbean
+guatemala,Guatemala,North America,Central America
+guinea,Guinea,Africa,West Africa
+guinea-bissau,Guinea-Bissau,Africa,West Africa
+guyana,Guyana,South America,South America
+haiti,Haiti,North America,Caribbean
+honduras,Honduras,North America,Central America
+hungary,Hungary,Europe,Eastern Europe
+iceland,Iceland,Europe,Northern Europe
+india,India,Asia,South Asia
+indonesia,Indonesia,Asia,Southeast Asia
+iran,Iran,Asia,Middle East
+iraq,Iraq,Asia,Middle East
+ireland,Ireland,Europe,Northern Europe
+israel,Israel,Asia,Middle East
+italy,Italy,Europe,Southern Europe
+jamaica,Jamaica,North America,Caribbean
+japan,Japan,Asia,East Asia
+jordan,Jordan,Asia,Middle East
+kazakhstan,Kazakhstan,Asia,Central Asia
+kenya,Kenya,Africa,East Africa
+kiribati,Kiribati,Oceania,Pacific
+kuwait,Kuwait,Asia,Middle East
+kyrgyzstan,Kyrgyzstan,Asia,Central Asia
+laos,Laos,Asia,Southeast Asia
+latvia,Latvia,Europe,Northern Europe
+lebanon,Lebanon,Asia,Middle East
+lesotho,Lesotho,Africa,Southern Africa
+liberia,Liberia,Africa,West Africa
+libya,Libya,Africa,North Africa
+liechtenstein,Liechtenstein,Europe,Western Europe
+lithuania,Lithuania,Europe,Northern Europe
+luxembourg,Luxembourg,Europe,Western Europe
+madagascar,Madagascar,Africa,East Africa
+malawi,Malawi,Africa,East Africa
+malaysia,Malaysia,Asia,Southeast Asia
+maldives,Maldives,Asia,South Asia
+mali,Mali,Africa,West Africa
+malta,Malta,Europe,Southern Europe
+marshall-islands,Marshall Islands,Oceania,Pacific
+mauritania,Mauritania,Africa,West Africa
+mauritius,Mauritius,Africa,East Africa
+mexico,Mexico,North America,North America
+micronesia,Micronesia,Oceania,Pacific
+moldova,Moldova,Europe,Eastern Europe
+monaco,Monaco,Europe,Western Europe
+mongolia,Mongolia,Asia,East Asia
+montenegro,Montenegro,Europe,Balkans
+morocco,Morocco,Africa,North Africa
+mozambique,Mozambique,Africa,East Africa
+myanmar,Myanmar,Asia,Southeast Asia
+namibia,Namibia,Africa,Southern Africa
+nauru,Nauru,Oceania,Pacific
+nepal,Nepal,Asia,South Asia
+netherlands,Netherlands,Europe,Western Europe
+new-zealand,New Zealand,Oceania,Australia & New Zealand
+nicaragua,Nicaragua,North America,Central America
+niger,Niger,Africa,West Africa
+nigeria,Nigeria,Africa,West Africa
+north-korea,North Korea,Asia,East Asia
+north-macedonia,North Macedonia,Europe,Balkans
+norway,Norway,Europe,Northern Europe
+oman,Oman,Asia,Middle East
+pakistan,Pakistan,Asia,South Asia
+palau,Palau,Oceania,Pacific
+palestine,Palestine,Asia,Middle East
+panama,Panama,North America,Central America
+papua-new-guinea,Papua New Guinea,Oceania,Pacific
+paraguay,Paraguay,South America,South America
+peru,Peru,South America,South America
+philippines,Philippines,Asia,Southeast Asia
+poland,Poland,Europe,Eastern Europe
+portugal,Portugal,Europe,Southern Europe
+qatar,Qatar,Asia,Middle East
+romania,Romania,Europe,Eastern Europe
+russia,Russia,Europe,Eastern Europe
+rwanda,Rwanda,Africa,East Africa
+saint-kitts-and-nevis,Saint Kitts and Nevis,North America,Caribbean
+saint-lucia,Saint Lucia,North America,Caribbean
+saint-vincent-and-the-grenadines,Saint Vincent and the Grenadines,North America,Caribbean
+samoa,Samoa,Oceania,Pacific
+san-marino,San Marino,Europe,Southern Europe
+sao-tome-and-principe,Sao Tome and Principe,Africa,Central Africa
+saudi-arabia,Saudi Arabia,Asia,Middle East
+senegal,Senegal,Africa,West Africa
+serbia,Serbia,Europe,Balkans
+seychelles,Seychelles,Africa,East Africa
+sierra-leone,Sierra Leone,Africa,West Africa
+singapore,Singapore,Asia,Southeast Asia
+slovakia,Slovakia,Europe,Eastern Europe
+slovenia,Slovenia,Europe,Balkans
+solomon-islands,Solomon Islands,Oceania,Pacific
+somalia,Somalia,Africa,East Africa
+south-africa,South Africa,Africa,Southern Africa
+south-korea,South Korea,Asia,East Asia
+south-sudan,South Sudan,Africa,East Africa
+spain,Spain,Europe,Southern Europe
+sri-lanka,Sri Lanka,Asia,South Asia
+sudan,Sudan,Africa,North Africa
+suriname,Suriname,South America,South America
+sweden,Sweden,Europe,Northern Europe
+switzerland,Switzerland,Europe,Western Europe
+syria,Syria,Asia,Middle East
+tajikistan,Tajikistan,Asia,Central Asia
+tanzania,Tanzania,Africa,East Africa
+thailand,Thailand,Asia,Southeast Asia
+timor-leste,Timor-Leste,Asia,Southeast Asia
+togo,Togo,Africa,West Africa
+tonga,Tonga,Oceania,Pacific
+trinidad-and-tobago,Trinidad and Tobago,North America,Caribbean
+tunisia,Tunisia,Africa,North Africa
+turkey,Turkey,Asia,Middle East
+turkmenistan,Turkmenistan,Asia,Central Asia
+tuvalu,Tuvalu,Oceania,Pacific
+uganda,Uganda,Africa,East Africa
+ukraine,Ukraine,Europe,Eastern Europe
+united-arab-emirates,United Arab Emirates,Asia,Middle East
+united-kingdom,United Kingdom,Europe,Northern Europe
+united-states,United States,North America,North America
+uruguay,Uruguay,South America,South America
+uzbekistan,Uzbekistan,Asia,Central Asia
+vanuatu,Vanuatu,Oceania,Pacific
+vatican-city,Vatican City,Europe,Southern Europe
+venezuela,Venezuela,South America,South America
+vietnam,Vietnam,Asia,Southeast Asia
+yemen,Yemen,Asia,Middle East
+zambia,Zambia,Africa,Southern Africa
+zimbabwe,Zimbabwe,Africa,Southern Africa
