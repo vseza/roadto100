@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import MapView from "@/components/MapView";
 
 export default function MapPage() {
@@ -7,7 +8,9 @@ export default function MapPage() {
         Route Map View
       </h1>
 
-      <MapView />
+      <Suspense fallback={<div>Loading map...</div>}>
+        <MapView />
+      </Suspense>
     </main>
   );
 }

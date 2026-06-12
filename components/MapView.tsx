@@ -81,8 +81,8 @@ export default function MapView() {
               }}
             >
               <Geographies geography="/world-map.json">
-                {({ geographies }) =>
-                  geographies.map((geo) => {
+  {({ geographies }: { geographies: any[] }) =>
+    geographies.map((geo: any) => {
                     const countryName =
                       geo.properties.name || "";
 
