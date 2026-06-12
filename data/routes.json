@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Balkans",
+    "countries": ["Serbia", "Bosnia and Herzegovina", "Montenegro", "North Macedonia", "Albania"]
+  },
+  {
+    "name": "Former Yugoslavia",
+    "countries": ["Serbia", "Croatia", "Bosnia and Herzegovina", "Slovenia", "Montenegro", "North Macedonia"]
+  },
+  {
+    "name": "Baltics",
+    "countries": ["Estonia", "Latvia", "Lithuania"]
+  },
+  {
+    "name": "Central Asia",
+    "countries": ["Kazakhstan", "Kyrgyzstan", "Uzbekistan", "Tajikistan", "Turkmenistan"]
+  },
+  {
+    "name": "Caucasus",
+    "countries": ["Armenia", "Azerbaijan", "Georgia"]
+  },
+  {
+    "name": "Gulf States",
+    "countries": ["United Arab Emirates", "Qatar", "Bahrain", "Kuwait", "Oman", "Saudi Arabia"]
+  },
+  {
+    "name": "North Africa",
+    "countries": ["Morocco", "Algeria", "Tunisia", "Libya", "Egypt"]
+  },
+  {
+    "name": "Indochina",
+    "countries": ["Thailand", "Vietnam", "Cambodia", "Laos", "Myanmar"]
+  },
+  {
+    "name": "East Africa",
+    "countries": ["Kenya", "Tanzania", "Uganda", "Rwanda", "Ethiopia"]
+  },
+  {
+    "name": "Central America",
+    "countries": ["Belize", "Guatemala", "Honduras", "El Salvador", "Nicaragua", "Costa Rica", "Panama"]
+  },
+  {
+    "name": "Western Europe",
+    "countries": ["France", "Belgium", "Netherlands", "Luxembourg"]
+  },
+  {
+    "name": "Nordics",
+    "countries": ["Norway", "Sweden", "Denmark", "Finland", "Iceland"]
+  },
+  {
+    "name": "British Isles",
+    "countries": ["United Kingdom", "Ireland"]
+  },
+  {
+    "name": "Iberia",
+    "countries": ["Spain", "Portugal", "Andorra"]
+  },
+  {
+    "name": "Eastern Europe",
+    "countries": ["Poland", "Czechia", "Slovakia", "Hungary", "Romania", "Moldova"]
+  },
+  {
+    "name": "Levant",
+    "countries": ["Jordan", "Lebanon", "Israel", "Syria"]
+  },
+  {
+    "name": "Indian Subcontinent",
+    "countries": ["India", "Nepal", "Bhutan", "Bangladesh", "Sri Lanka"]
+  },
+  {
+    "name": "East Asia",
+    "countries": ["Japan", "South Korea", "China", "Mongolia", "Taiwan"]
+  },
+  {
+    "name": "Southern Africa",
+    "countries": ["South Africa", "Namibia", "Botswana", "Zimbabwe", "Zambia"]
+  },
+  {
+    "name": "South America Highlights",
+    "countries": ["Argentina", "Chile", "Peru", "Bolivia", "Uruguay", "Paraguay"]
+  },
+  {
+    "name": "Greater China",
+    "countries": ["China", "Hong Kong", "Macau", "Taiwan"]
+  },
+  {
+    "name": "Danish Realm",
+    "countries": ["Denmark", "Greenland", "Faroe Islands"]
+  },
+  {
+    "name": "US Territories",
+    "countries": ["United States", "Puerto Rico", "Guam"]
+  },
+  {
+    "name": "West Africa",
+    "countries": ["Ghana", "Togo", "Benin", "Ivory Coast", "Senegal", "Gambia"]
+  },
+  {
+    "name": "Sahel",
+    "countries": ["Mali", "Niger", "Chad", "Mauritania", "Burkina Faso"]
+  },
+  {
+    "name": "Indian Ocean Islands",
+    "countries": ["Madagascar", "Mauritius", "Seychelles", "Comoros"]
+  },
+  {
+    "name": "Horn of Africa",
+    "countries": ["Ethiopia", "Djibouti", "Somalia", "Eritrea"]
+  },
+  {
+    "name": "Maritime Southeast Asia",
+    "countries": ["Singapore", "Malaysia", "Indonesia", "Brunei", "Philippines", "Timor-Leste"]
+  },
+  {
+    "name": "Mekong Extended",
+    "countries": ["Thailand", "Laos", "Cambodia", "Vietnam"]
+  },
+  {
+    "name": "Himalayas",
+    "countries": ["Nepal", "Bhutan"]
+  },
+  {
+    "name": "Caribbean Core",
+    "countries": ["Cuba", "Dominican Republic", "Jamaica", "Bahamas", "Trinidad and Tobago"]
+  },
+  {
+    "name": "Eastern Caribbean",
+    "countries": ["Antigua and Barbuda", "Dominica", "Saint Lucia", "Grenada", "Saint Vincent and the Grenadines", "Barbados"]
+  },
+  {
+    "name": "Northern South America",
+    "countries": ["Colombia", "Venezuela", "Guyana", "Suriname", "Ecuador"]
+  },
+  {
+    "name": "Andean Route",
+    "countries": ["Colombia", "Ecuador", "Peru", "Bolivia"]
+  },
+  {
+    "name": "Microstates",
+    "countries": ["Monaco", "San Marino", "Vatican City", "Andorra", "Liechtenstein"]
+  },
+  {
+    "name": "Alpine Europe",
+    "countries": ["Switzerland", "Austria", "Liechtenstein"]
+  },
+  {
+    "name": "Arabian Peninsula",
+    "countries": ["Saudi Arabia", "Oman", "United Arab Emirates", "Qatar", "Bahrain", "Kuwait", "Yemen"]
+  },
+  {
+    "name": "Pacific Islands",
+    "countries": ["Fiji", "Samoa", "Tonga", "Vanuatu", "Solomon Islands"]
+  },
+  {
+    "name": "Micronesia",
+    "countries": ["Palau", "Federated States of Micronesia", "Marshall Islands", "Nauru", "Kiribati"]
+  },
+  {
+    "name": "Polynesia",
+    "countries": ["Samoa", "Tonga", "Cook Islands", "French Polynesia"]
+  },
+  {
+    "name": "Melanesia",
+    "countries": ["Papua New Guinea", "Solomon Islands", "Vanuatu", "Fiji"]
+}
+]
