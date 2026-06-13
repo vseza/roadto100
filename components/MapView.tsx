@@ -1,5 +1,7 @@
 "use client";
 
+import { useEffect, useState } from "react";
+
 import routes from "@/data/routes.json";
 
 import {
@@ -12,16 +14,37 @@ import { useSearchParams } from "next/navigation";
 
 import RouteSummaryPanel from "@/components/RouteSummaryPanel";
 
-// TODO:
-// Load visited countries from localStorage/user profile
-const visitedCountries = [
-  "Serbia",
-  "France",
-  "Japan",
-];
+import { VISITED_COUNTRIES_STORAGE_KEY } from "@/lib/storage";
+import { countryIdToName } from "@/lib/countryLookup";
 
 export default function MapView() {
   const searchParams = useSearchParams();
+
+  const [visitedCountries, setVisitedCountries] =
+    useState<string[]>([]);
+
+  useEffect(() => {
+    const stored = localStorage.getItem(
+      VISITED_COUNTRIES_STORAGE_KEY
+    );
+
+    if (!stored) return;
+
+    try {
+      const ids = JSON.parse(stored) as string[];
+
+      const countryNames = ids
+        .map((id) => countryIdToName[id])
+        .filter(Boolean);
+
+      setVisitedCountries(countryNames);
+    } catch (error) {
+      console.error(
+        "Failed to load visited countries",
+        error
+      );
+    }
+  }, []);
 
   const routeId = searchParams.get("route");
 
@@ -47,7 +70,12 @@ export default function MapView() {
           </p>
         </div>
 
-        <div className="flex gap-4 text-sm">
+        <div className="flex flex-wrap gap-4 text-sm">
+          <div className="flex items-center gap-2">
+            <div className="h-4 w-4 rounded bg-green-800" />
+            <span>Visited + Route</span>
+          </div>
+
           <div className="flex items-center gap-2">
             <div className="h-4 w-4 rounded bg-green-500" />
             <span>Visited</span>
@@ -81,8 +109,8 @@ export default function MapView() {
               }}
             >
               <Geographies geography="/world-map.json">
-  {({ geographies }: { geographies: any[] }) =>
-    geographies.map((geo: any) => {
+                {({ geographies }: { geographies: any[] }) =>
+                  geographies.map((geo: any) => {
                     const countryName =
                       geo.properties.name || "";
 
@@ -98,12 +126,12 @@ export default function MapView() {
 
                     let fillColor = "#BFC3CC";
 
-                    if (isRoute) {
-                      fillColor = "#3b82f6";
-                    }
-
-                    if (isVisited) {
+                    if (isVisited && isRoute) {
+                      fillColor = "#15803d";
+                    } else if (isVisited) {
                       fillColor = "#22c55e";
+                    } else if (isRoute) {
+                      fillColor = "#3b82f6";
                     }
 
                     return (
